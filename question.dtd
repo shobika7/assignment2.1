@@ -1,0 +1,29 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Programming (question)+>
+<!ATTLIST Programming
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT question (ques,option1,option2,option3,option4)>
+<!ATTLIST question
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ques (#PCDATA)>
+<!ATTLIST ques
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT option1 (#PCDATA)>
+<!ATTLIST option1
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT option2 (#PCDATA)>
+<!ATTLIST option2
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT option3 (#PCDATA)>
+<!ATTLIST option3
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT option4 (#PCDATA)>
+<!ATTLIST option4
+  xmlns CDATA #FIXED ''>

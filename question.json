@@ -1,0 +1,37 @@
+[
+   {
+      "ques": "The minimum number of comparisons required to determine if an integer appears more than n/2 times in a sorted array of n integers is",
+      "option1": "Θ(n)",
+      "option2": "Θ(log)",
+      "option3": "Θ(log*n)",
+      "option4": "Θ(1)"
+   },
+   {
+      "ques": "Consider an array consisting of e and e numbers. What would be the worst case time complexity of an algorithm to segregate the numbers having same sign altogether  all e on one side and then all e on the other ?",
+      "option1": "O(N)",
+      "option2": "O(Log N)",
+      "option3": "O(N * N)",
+      "option4": "O(N Log Log N)"
+   },
+   {
+      "ques": "Let A[1...n] be an array of n distinct numbers. If A[j], then the pair (, j) is called an inversion of A. What is the expected number of inversions in any permutation on n elements ?",
+      "option1": "n(n-1)/2",
+      "option2": "n(n-1)/4",
+      "option3": "n(n+1)/4",
+      "option4": "2n[log]"
+   },
+   {
+      "ques": "A three dimensional array in ‘C’ is declared as A[x][y][z]. Consider that array elements are stored in row major order and indexing begins from 0. Here, the address of an item at the location A[p][q][r] can be computed as follows (where w is the word length of an integer):",
+      "option1": "[0][0][0] + w(y * z * q + z * p + r)",
+      "option2": "[0][0][0] + w(y * z * p + z*q + r)",
+      "option3": "[0][0][0] + w(x * y * p + z * q+ r)",
+      "option4": "[0][0][0] + w(x * y * q + z * p + r)"
+   },
+   {
+      "ques": "Which of the following correctly declares an array?",
+      "option1": "geeks[20];",
+      "option2": "geeks;",
+      "option3": "geeks{20};",
+      "option4": "array geeks[20];"
+   }
+]

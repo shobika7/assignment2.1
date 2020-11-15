@@ -1,0 +1,37 @@
+[
+   {
+      "topic": "Programming and Data Structures",
+      "question_count": "50",
+      "mark": "100 marks",
+      "Timing": "1 hours",
+      "reference": "c programming books"
+   },
+   {
+      "topic": "Operating Systems",
+      "question_count": "25",
+      "mark": "50 marks",
+      "Timing": "45 mins",
+      "reference": "Book – William Stallings Practice Problems and Solutions"
+   },
+   {
+      "topic": "Databases",
+      "question_count": "30",
+      "mark": "30 marks",
+      "Timing": "30 mins",
+      "reference": "NPTEL lectures"
+   },
+   {
+      "topic": "Computer Networks",
+      "question_count": "40",
+      "mark": "100 marks",
+      "Timing": "1 hours",
+      "reference": "Tanenbaum"
+   },
+   {
+      "topic": "Compiler Design",
+      "question_count": "20",
+      "mark": "40 marks",
+      "Timing": "45 mins",
+      "reference": "Book – Basics of Compiler Design"
+   }
+]

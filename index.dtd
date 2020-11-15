@@ -1,0 +1,29 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT quiz (question)+>
+<!ATTLIST quiz
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT question (topic,questioncount,mark,Timing,reference)>
+<!ATTLIST question
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT topic (#PCDATA)>
+<!ATTLIST topic
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT questioncount (#PCDATA)>
+<!ATTLIST questioncount
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT mark (#PCDATA)>
+<!ATTLIST mark
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Timing (#PCDATA)>
+<!ATTLIST Timing
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT reference (#PCDATA)>
+<!ATTLIST reference
+  xmlns CDATA #FIXED ''>

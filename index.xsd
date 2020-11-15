@@ -1,0 +1,20 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name=" html" type="htmlType"/>
+<xs:complexType name = "parsererrorType">
+<xs:sequence>
+<xs:element type = "xs:string" name = "h3"/>
+<xs:element type = "divType" name = "div"/>
+ </xs:sequence>
+<xs:attribute type="xs:string" name="style" use="optional"/>
+</xs:complexType>
+<xs:complexType name = "bodyType">
+<xs:sequence>
+<xs:element type = "parsererrorType" name = "parsererror"/>
+ </xs:sequence>
+</ xs:complexType>
+<xs:complexType name = "htmlType" >
+<xs:sequence>
+<xs:element type = "xs:string" name = "body"/>
+ </xs:sequence>
+</xs:complexType>
+ </xs:schema>

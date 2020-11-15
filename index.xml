@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question>
+<topic>Programming and Data Structures</topic>
+<question_count>50</question_count>
+<mark>100 marks</mark>
+<Timing>1 hours</Timing>
+<reference>c programming books</reference>
+</question>
+<question>
+<topic>Operating Systems</topic>
+<question_count>25</question_count>
+<mark>50 marks</mark>
+<Timing>45 mins</Timing>
+<reference>Book – William Stallings Practice Problems and Solutions</reference>
+</question>
+<question>
+<topic>Databases</topic>
+<question_count>30</question_count>
+<mark>30 marks</mark>
+<Timing>30 mins</Timing>
+<reference>NPTEL lectures</reference>
+</question>
+<question>
+<topic>Computer Networks</topic>
+<question_count>40</question_count>
+<mark>100 marks</mark>
+<Timing>1 hours</Timing>
+<reference>Tanenbaum</reference>
+</question>
+<question>
+<topic>Compiler Design</topic>
+<question_count>20</question_count>
+<mark>40 marks</mark>
+<Timing>45 mins</Timing>
+<reference>Book – Basics of Compiler Design</reference>
+</question>
+
+</quiz>

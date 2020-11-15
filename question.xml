@@ -1,0 +1,41 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Programming>
+<question>
+<ques>The minimum number of comparisons required to determine if an integer appears more than n/2 times in a sorted array of n integers is</ques>
+<option1>Θ(n)</option1>
+<option2>Θ(logn)</option2>
+<option3>Θ(log*n)</option3>
+<option4>Θ(1)</option4>
+</question>
+<question>
+<ques>Consider an array consisting of –ve and +ve numbers. What would be the worst case time complexity of an algorithm to segregate the numbers having same sign altogether i.e all +ve on one side and then all -ve on the other ?</ques>
+<option1>O(N)</option1>
+<option2>O(NLog N)</option2>
+<option3>O(N * N)</option3>
+<option4>O(N Log Log N)</option4>
+</question>
+<question>
+<ques>Let A[1...n] be an array of n distinct numbers. If i A[j], then the pair (i, j) is called an inversion of A. What is the expected number of inversions in any permutation on n elements ?</ques>
+<option1>n(n-1)/2</option1>
+<option2>n(n-1)/4</option2>
+<option3>n(n+1)/4</option3>
+<option4>2n[logn]</option4>
+</question>
+<question>
+<ques>A three dimensional array in ‘C’ is declared as int A[x][y][z]. Consider that array elements are stored in row major order and indexing begins from 0. Here, the address of an item at the location A[p][q][r] can be computed as follows (where w is the word length of an integer):</ques>
+<option1>[0][0][0] + w(y * z * q + z * p + r)</option1>
+<option2>[0][0][0] + w(y * z * p + z*q + r)</option2>
+<option3>[0][0][0] + w(x * y * p + z * q+ r)</option3>
+<option4>[0][0][0] + w(x * y * q + z * p + r)</option4>
+</question>
+<question>
+<ques>Which of the following correctly declares an array?</ques>
+<option1>int geeks[20];</option1>
+<option2>int geeks;</option2>
+<option3>geeks{20};</option3>
+<option4>array geeks[20];</option4>
+</question>
+
+</Programming>
